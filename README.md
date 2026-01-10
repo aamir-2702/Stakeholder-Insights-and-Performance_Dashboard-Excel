@@ -11,7 +11,7 @@ An interactive analytics dashboard providing insights into premiums, profitabili
 * [Tools used](#tools-used)
 * [Key Matrics](#Key-Matrics-(KPIs))
 * [Key insights](#key-insights)
-* [How to open & use](#how-to-open--use)
+* [How to open](#how-to-open)
 
 ---
 ##  **Overview**
