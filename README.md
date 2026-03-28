@@ -59,25 +59,27 @@ This project analyzes stakeholder performance and financial metrics using intera
 
 **6.** Unit Testing (UT)
 
-**7.** User Acceptance Testing (UAT).
+**7.** User Acceptance Testing (UAT)
+
 **8.** Deployment & Maintenance
 
 ---
 
 ## **Key Metrics**
 
-- KPI Tracking: Total Premium, Avg Stakeholder Age, Equity Value
-- Interactive filters: City, Stakeholder, Gender, Date, Tenure
-- Visualizations:
-      - Premium Trends Over Time
+- **KPI Tracking**: Total Premium, Avg Stakeholder Age, Equity Value
+- **Interactive filters**: City, Stakeholder, Gender, Date, Tenure
+- **Visualizations**:
   
-      - Value by Insurer
+   - Premium Trends Over Time
   
-      - Profitability by City & Tenure
+   - Value by Insurer
   
-      - Shareholding Distribution
+   - Profitability by City & Tenure
   
-      - Cost Ratio vs Profitability
+   - Shareholding Distribution
+  
+   - Cost Ratio vs Profitability
   
 - Drill-down, tooltips, and cross-filtering
   
