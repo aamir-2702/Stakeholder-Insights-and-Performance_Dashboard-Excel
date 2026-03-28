@@ -48,12 +48,18 @@ This project analyzes stakeholder performance and financial metrics using intera
 ## **🔄 Project Workflow**
 
 **1.** Business Requirement Gathering (BRD)
+
 **2.** Data Acquisition
+
 **3.** Data Cleaning & Transformation
+
 **4.** Data Analysis & Dashboard Development
+
 **5.** Documentation (User Guide)
+
 **6.** Unit Testing (UT)
-**7.** User Acceptance Testing (UAT)
+
+**7.** User Acceptance Testing (UAT).
 **8.** Deployment & Maintenance
 
 ---
@@ -64,11 +70,17 @@ This project analyzes stakeholder performance and financial metrics using intera
 - Interactive filters: City, Stakeholder, Gender, Date, Tenure
 - Visualizations:
       - Premium Trends Over Time
+  
       - Value by Insurer
+  
       - Profitability by City & Tenure
+  
       - Shareholding Distribution
+  
       - Cost Ratio vs Profitability
+  
 - Drill-down, tooltips, and cross-filtering
+  
 - PDF Export functionalit
 
 ---
